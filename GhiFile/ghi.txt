@@ -4,4 +4,12 @@
 - Bình luận
 - Thông tin cá nhân
 - Bài viết ưu thích
-- 
+- Đăng nhâp
++ id
++ user
++ pass
++ dislay name 
++ sex
++ address
++ phone
++ mail
